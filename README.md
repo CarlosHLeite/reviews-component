@@ -1,3 +1,25 @@
+## Table of contents
+
+- [Screenshot](#screenshot)
+- [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+### Screenshot
+
+![](./reviews.png)
+
+### Built with
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+
+## Author
+
+- Website - [Carlos Henrique Leite](https://carloshenriqueleite.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
